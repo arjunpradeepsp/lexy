@@ -2,5 +2,5 @@ from django.shortcuts import render
 
 # Create your views here.
 
-def pen1(request):
+def demo(request):
     return render(request,'max.html')

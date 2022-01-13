@@ -1,5 +1,5 @@
-from django.urls import
+from django.urls import path
 from.import views
-urlpatterns[
-    path('max/',views.pen1)
+urlpatterns=[
+    path('demo/',views.demo)
 ]
